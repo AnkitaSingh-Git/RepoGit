@@ -1,0 +1,9 @@
+This is a Help file.
+
+This file has been created to test following:
+1. Git Repository Creation
+2. Adding Project
+3. Adding few files
+4. Editing those files
+5. Committing those files into repository.
+6. Checking status with command - git status.
